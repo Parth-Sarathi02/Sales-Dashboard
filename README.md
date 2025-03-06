@@ -1,6 +1,8 @@
 # Sales-Dashboard
 A Sales Dashboard created using Tableau, Excel, and MySQL provides a comprehensive view of business performance by integrating data from multiple sources. This dashboard is designed to help stakeholders monitor key metrics and gain actionable insights.
 
+Dashboard preview - <a href="https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesDashboard_17209825667380/SalesDashboard"></a>
+
 Key Features:
 KPIs Overview:
 
